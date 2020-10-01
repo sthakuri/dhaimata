@@ -3,7 +3,7 @@ layout: post
 title: "मन्दिर पुननिर्माण मार्फत सांस्कृतिक पुनर्लेखन को प्रयास"
 author: jane
 categories: [संस्कृति, tutorial]
-image: assets/images/balibisauna-1.jpg
+image: assets/images/mandir-construction.jpg
 tags: [sticky]
 ---
 
