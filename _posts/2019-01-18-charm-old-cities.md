@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title: "Could we reinvent the charm of old village"
 author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+categories: [Jekyll, tutorial]
+image: assets/images/balibisauna-1.jpg
 tags: [sticky]
 ---
 
