@@ -3,7 +3,7 @@ layout: post
 title: "बालिबिसौनाबासी ठकुरीहरुको नालीबेली"
 author: sal
 categories: [इतिहास]
-image: assets/images/17.jpg
+image: assets/images/balibisauna-thakuri-family-1.jpg
 tags: [featured]
 ---
 

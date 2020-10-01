@@ -2,7 +2,7 @@
 layout: post
 title: "ठकुरी कुल पुजा, भाकल र बलि परम्परा"
 categories: [परम्परा, संस्कृति]
-image: assets/images/3.jpg
+image: assets/images/kulpuja.jpg
 ---
 
 There are lots of powerful things you can do with the Markdown editor
