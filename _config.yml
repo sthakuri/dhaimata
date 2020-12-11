@@ -42,6 +42,14 @@ authors:
     bio: "ज्योतिष, पण्डित"
     email: fb.me/narayan.dulal
     twitter: https://www.facebook.com/narayan.dulal
+  
+  sthakuri:
+    name: sthakuri
+    site: https://www.sthakuri.com
+    avatar: https://dhaimata.org/assets/images/avatar1.jpg
+    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    email: hello@sthakuri.com
+    twitter: https://twitter.com/itsmesuvash
 
 # Defaults
 defaults:
