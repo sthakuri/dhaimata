@@ -1,0 +1,23 @@
+{ 
+    "class": "go.TreeModel",
+    "nodeDataArray": [
+        {"key":1, "name":"लोक बहादुर शाह", "gender":"1", "place":"प्यूठान, नेपाल", "spouse":"श्रीमती गिरा देबी शाह", "pic":"gender-male.png"},
+        {"key":2, "name":"Luke Warm", "place":"VP Marketing/Sales", "pic":"gender-female.png", "parent":1},
+        {"key":3, "name":"Meg Meehan Hoffa", "place":"Sales", "pic":"3.jpg", "parent":2},
+        {"key":4, "name":"Peggy Flaming", "place":"VP Engineering", "pic":"4.jpg", "parent":1},
+        {"key":5, "name":"Saul Wellingood", "place":"Manufacturing", "pic":"5.jpg", "parent":4},
+        {"key":6, "name":"Al Ligori", "place":"Marketing", "pic":"6.jpg", "parent":2},
+        {"key":7, "name":"Dot Stubadd", "place":"Sales Rep", "pic":"7.jpg", "parent":3},
+        {"key":8, "name":"Les Ismore", "place":"Project Mgr", "pic":"8.jpg", "parent":5},
+        {"key":9, "name":"April Lynn Parris", "place":"Events Mgr", "pic":"9.jpg", "parent":6},
+        {"key":10, "name":"Xavier Breath", "place":"Engineering", "pic":"10.jpg", "parent":4},
+        {"key":11, "name":"Anita Hammer", "place":"Process", "pic":"11.jpg", "parent":5},
+        {"key":12, "name":"Billy Aiken", "place":"Software", "pic":"12.jpg", "parent":10},
+        {"key":13, "name":"Stan Wellback", "place":"Testing", "pic":"13.jpg", "parent":10},
+        {"key":14, "name":"Marge Innovera", "place":"Hardware", "pic":"14.jpg", "parent":10},
+        {"key":15, "name":"Evan Elpus", "place":"Quality", "pic":"15.jpg", "parent":5},
+        {"key":16, "name":"Lotta B. Essen", "place":"Sales Rep", "pic":"16.jpg", "parent":3},
+
+        {"key":17, "name":"Abc", "place":"Sales Rep", "pic":"16.jpg", "parent":9}
+    ]
+}
